@@ -1,0 +1,5 @@
+c:\users\michal.michna\documents\visual studio 2017\Projects\CS011StringSplitJoin\bin\Debug\CS011StringSplitJoin.exe.config
+c:\users\michal.michna\documents\visual studio 2017\Projects\CS011StringSplitJoin\bin\Debug\CS011StringSplitJoin.exe
+c:\users\michal.michna\documents\visual studio 2017\Projects\CS011StringSplitJoin\bin\Debug\CS011StringSplitJoin.pdb
+c:\users\michal.michna\documents\visual studio 2017\Projects\CS011StringSplitJoin\obj\Debug\CS011StringSplitJoin.exe
+c:\users\michal.michna\documents\visual studio 2017\Projects\CS011StringSplitJoin\obj\Debug\CS011StringSplitJoin.pdb
